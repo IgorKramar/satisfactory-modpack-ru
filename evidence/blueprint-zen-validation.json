@@ -1,0 +1,236 @@
+[
+  {
+    "package": "/FicsitWiremod/Buildings/Displays/PixelArtManager/Editor/Widget_PixelArt",
+    "chunk": "b0b27af0e986a76b00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "33aabb0c520d4b17b123672c7b63989f30746346ae8645a4b3090a138ae6a422",
+    "patched_sha256": "e98692c30691aee009a30723f6d4d6b5cd20ad596a62523379acc36b1701a5d8",
+    "imports": 36
+  },
+  {
+    "package": "/FicsitWiremod/UI/Shared/Connections/ConnectionsWidget",
+    "chunk": "e868591b6ea9069d00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "7790fcf0bd369031278cd918ce36e5de2d091dd7d088532bb732c80d6b139983",
+    "patched_sha256": "f6a984d6e1a1293e8dc334b825dfc54b22bbb9576fa1f93cd21228184afb89c0",
+    "imports": 8
+  },
+  {
+    "package": "/DigitalStorage/Interface/Interact/BPW_DS_UplinkSatellite",
+    "chunk": "a8d487d14a7246cd00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "bf9a7fe7f40df9c3dbf9c91083c531fb6578f203ae95995e983bbdc7f425e0df",
+    "patched_sha256": "0c395ab72e1903fe6097657387e49aeafc588d19b29e95c9ee10491b799d23d9",
+    "imports": 17
+  },
+  {
+    "package": "/DigitalStorage/Interface/Interact/Widget_DS_Server",
+    "chunk": "2ad015774377328c00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "ec3a9ae1c6b0c4912fceca1bd3d2292bbaa51f331bfd996736fca69fda342438",
+    "patched_sha256": "b636331b62aaccdc24cb40ebfbf893d0564d19d7f1f38960806328f3d223e01d",
+    "imports": 20
+  },
+  {
+    "package": "/DigitalStorage/Interface/Interact/Widget_NetworkPowerAdapter",
+    "chunk": "2a46b7505cecda1800000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "bc79fb2d5f0aa85128a2b06a72757f0e82c9c3756fe3566fca29ea71bdf9d9f1",
+    "patched_sha256": "b2d31e7b7193d9451c0763306b65dee53f862b0ddcecbf032a83db86f57dd231",
+    "imports": 16
+  },
+  {
+    "package": "/DigitalStorage/Interface/Widgets/DS_UI_Utils",
+    "chunk": "f0b6acc1b9a5ca6e00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "30198a6bc98a02eb66310d84d96f914c7d78a2cacd4a3adb6b7edc0a477ae5a9",
+    "patched_sha256": "6e76985572c52258d6bc1dbff68a6d234adc726dfa7a43a80f3d03dbe14dd5f2",
+    "imports": 61
+  },
+  {
+    "package": "/DigitalStorage/Interface/Widgets/DriveTerminal/BPW_DS_DriveTerminal_DriveInfo",
+    "chunk": "38fa3bc9de0f0fe200000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "5645865683e6c50640a51c127856062836ef33d49d7c77f51319a01c27b813ef",
+    "patched_sha256": "064dee7f36d37c0f434a9af2a31f1ced38517accc9eedcf0c4c6723cf8145df4",
+    "imports": 2
+  },
+  {
+    "package": "/DigitalStorage/Interface/Widgets/Server/BPW_DS_Server_DriveTemplateWindow",
+    "chunk": "42f04261baaf0f4400000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "db385c44ca9118256236f0fcc2ccec758db4da1403c5520e406f6c52dd4c1877",
+    "patched_sha256": "d75641fdc871a2fe098b2861dcce42ac63c52c7f649ba6a40974927bc702754c",
+    "imports": 13
+  },
+  {
+    "package": "/DigitalStorage/Interface/Widgets/UniversalAdapter/BPW_DS_UniversalAdapter_InventorySlot",
+    "chunk": "5774fd67ae21b86400000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "e100b3b234c2adda36c780c8ecad6a374484d2269837abcd9ce2ae20615a5ecf",
+    "patched_sha256": "b302377307c88d80db08e74f22b5b471dd3f945a186d715a570c8634137c9f40",
+    "imports": 9
+  },
+  {
+    "package": "/FicsitRemoteMonitoring/SessionSettings/Client/uWebSockets/Client_Web_Root",
+    "chunk": "b5f27349117f6c3300000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "973a6f842aa915677d708903e446607377d721cb24ed237a79432d412b4dbc8a",
+    "patched_sha256": "216dba6f0cd9ae18c088a34de6a9097804a4a03aa5a873e5c6a30782488a9e2e",
+    "imports": 3
+  },
+  {
+    "package": "/FicsitRemoteMonitoring/SessionSettings/DediUI/uWebSockets/Server_Web_Root",
+    "chunk": "54226208567e0c9e00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "0d2d2b55c1709e5955d282d613c683dcf4e202e51449541570f2367dac08ba91",
+    "patched_sha256": "f33df8f13d106ce7eb295ca05261f99afd074b8ada9f87e4c1ffc6a120233541",
+    "imports": 3
+  },
+  {
+    "package": "/KBFL/Utils/Widget/KBFLUTIL_Widget_Controll",
+    "chunk": "d2f726f1a3b5722600000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "381f2f63b61a1c378b288254ef3726bac4d3976ec4bb09607cf7c289e21f1ca5",
+    "patched_sha256": "89a18c1c9bd426c0d0c7fc78952246a9d3dbf90fde7c79402b82df648369bd0b",
+    "imports": 4
+  },
+  {
+    "package": "/RefinedPower/Interface/UI/Intracts/Widget_SolarPanel",
+    "chunk": "0f52061c584d01d100000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "8ad231a4efb65ba8c8bac1599e73c6657110f224187dd783ce04bcb23bd35618",
+    "patched_sha256": "721a40cc4a474c98d07d2920b9078577a08de92fe4a2d8565f896354a3a0a491",
+    "imports": 9
+  },
+  {
+    "package": "/RefinedPower/Interface/UI/Intracts/ModularReactor/Widget_RP_MR_SupportRing",
+    "chunk": "273e30c3e3ffc3d200000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "f1170c9d228242189c22a5ce7597a04a39aad0414b12a097317bb1d2b7311ba8",
+    "patched_sha256": "6dee709c5ed9a2efcb855c71b8fe20e5025fa281be222163706f088d35667341",
+    "imports": 71
+  },
+  {
+    "package": "/RefinedPower/Interface/UI/Intracts/PowerMonitor/BPW_RP_PowerMonitor_Graph",
+    "chunk": "4e9274a2b40b388100000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "5f15ecbfb71fb95b21934c2919429392677f55ca4b6a879a57baa28e054e3b3b",
+    "patched_sha256": "784ca7b280f4b4e753c428826346f4f4a6360d87c0aea37cc1096f2abf218b2b",
+    "imports": 4
+  },
+  {
+    "package": "/RefinedPower/Interface/UI/Intracts/Turbine/Widget_RP_WaterTurbine",
+    "chunk": "b7b6029d93ff351100000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "ccc9a15922a98549bc90e8454f12b3be17310b11d1b4104520f279023905477c",
+    "patched_sha256": "a4ad02f32c864ca401d7b94dbd35fb4425a92dd9e92f9f4c5261862d007b03b4",
+    "imports": 16
+  },
+  {
+    "package": "/RefinedPower/Interface/UI/Intracts/Turbine/Widget_RP_WindTurbine",
+    "chunk": "2ccec9a558a5c9fa00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "4e7b887c4610ee7c3fb280ee9e7327c8ec00daec8ce955948642477f2cc16e3a",
+    "patched_sha256": "2b7fd23ba4e4d901aede98a6e3552cf5a0030bf946775dbae33055752c39cba3",
+    "imports": 17
+  },
+  {
+    "package": "/RSS/Equipment/Widget_SignGun",
+    "chunk": "8e6b55e8d5b650e100000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "8071d67a81175d88ffb2ab4a09a78507d83d624f0f4294db63e11d7d2919cd83",
+    "patched_sha256": "ef54feee448cfa4a36fd8f74649b284b393c7fbab1ee432f4457425361806351",
+    "imports": 12
+  },
+  {
+    "package": "/RSS/Interface/WidgetComp/Rss_WC_ElementList_Element",
+    "chunk": "863bd8dea3cac55700000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "5350797a6715143959ed1099982d32ed83bcc62bf7322012ea0821175d8dffd4",
+    "patched_sha256": "e29f484a73ad067d417d7fa024cd46f9b8010c69dc165b9068f2082e16301ad1",
+    "imports": 15
+  },
+  {
+    "package": "/RSS/Interface/WidgetComp/Rss_WC_SizeCombobox_2",
+    "chunk": "6ec6f6b7b29dfbc300000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "78ee458d292b043cf99328f576ca85168a46bf9b8be4d1bebfba06bd43cb3519",
+    "patched_sha256": "26301e8ce9e15ab23cb4a7e87740221cce06adf505c1b0a96955022cf44701df",
+    "imports": 6
+  },
+  {
+    "package": "/SML/Hook_GlobalHooks_SML",
+    "chunk": "14678c71999d05a800000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "bba0ce7cea7dc2de770fa817c38ddb68b71900486257795a9c1dfe376270e958",
+    "patched_sha256": "a881928f41f2b6d0c9899f1077de1d5995434b696e0b7c53569f1004cbfd5cfb",
+    "imports": 5
+  },
+  {
+    "package": "/SML/Interface/UI/Menu/Mods/Widget_ModList",
+    "chunk": "0e82401db409f12700000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "a214ba66d2e88cb527b50adce24036a949491061343dab48d09c3bec3bd2a832",
+    "patched_sha256": "7778518c2653ff295d7abcef1f2851029dedf904e9521447bf09840db8247213",
+    "imports": 7
+  },
+  {
+    "package": "/SML/Interface/UI/Menu/Mods/Widget_ModSelect_Button",
+    "chunk": "2eee046199b0b93a00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "f2c79d56a76d8bb7cda644b2022267524c0ada8ae2dae4558c30a7b273d4b4a8",
+    "patched_sha256": "f67f4c29f778dfd30dfcdec256a685e7c0ffdde28ef03853df4df98cb435049a",
+    "imports": 1
+  },
+  {
+    "package": "/SML/Interface/UI/Menu/PlayMenu/Widget_PlayMenuTab_Essentials",
+    "chunk": "98aac56fc93caad600000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "9dbe64992d28e4c4b201300af711871a3159216b6ca1dcab1f9100ffb2a4e9e0",
+    "patched_sha256": "41761cb1c6d178b7c189576fdd714829f88403f0faa719de09f8da5f4102c1a4",
+    "imports": 5
+  },
+  {
+    "package": "/SML/Interface/UI/Menu/Mods/ConfigProperties/Widgets/BaseClasses/Widget_CP_Section_Base",
+    "chunk": "42dfc7df6f98db6300000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "3e2940155e6dbe531924ae0cbe99cb18daaff40cea86b178733d1bb0274c4b3c",
+    "patched_sha256": "bb031f49be14564884a16be090f8bb2628698fe6adc5143be0931de9297cf6a7",
+    "imports": 8
+  },
+  {
+    "package": "/SML/Interface/UI/Menu/Mods/ConfigProperties/Widgets/Container/Widget_CP_Container",
+    "chunk": "ab3c0a023d98a8ee00000001",
+    "original_imports_and_dependencies_preserved": true,
+    "original_export_bytes_match_legacy": true,
+    "original_sha256": "c831ba4d861e95e624113415e61dd2bad9aea35ee4a3be6a61f483c29d0a5c4f",
+    "patched_sha256": "aaa0ad8f2d821db7f17571395fc664b2cf4bb7db3536024058363b3b4924bdef",
+    "imports": 6
+  }
+]

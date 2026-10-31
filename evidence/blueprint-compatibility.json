@@ -1,0 +1,42 @@
+[
+  {
+    "sha256": "9250a314b498d3dc3ea9ab34f2aa43fff1e53c89dafbb477bd54be4be615f512",
+    "mod": "FicsitWiremod",
+    "version": "14.1.63"
+  },
+  {
+    "sha256": "017c9f1ce34686d5bd28669f71db0bd7cac526573f5f11eec0954ca95d885b13",
+    "mod": "SML",
+    "version": "3.12.0"
+  },
+  {
+    "sha256": "721a8107b3d71aaf1d7965487912dc182bba22437ecce86a049a04bd55663163",
+    "mod": "DigitalStorage",
+    "version": "2026.3.11"
+  },
+  {
+    "sha256": "feb4b306ad726d96bb36d34774cae59f5b3b155130d1c6f7a9b7b70fb3a2565d",
+    "mod": "FicsitRemoteMonitoring",
+    "version": "1.5.3"
+  },
+  {
+    "sha256": "ead0052c536d4461db6c6f88751434cfea08e7fc4f43674d92d4fb90f1040279",
+    "mod": "KBFL",
+    "version": "2026.3.506"
+  },
+  {
+    "sha256": "89170eaac047124dede9a0105de3d89c2a7bcc0a49d34623f1515f975fde1a17",
+    "mod": "RefinedPower",
+    "version": "2026.3.28"
+  },
+  {
+    "sha256": "5ffc59423e9bc980b7cebfeb310b9fbf5fdfafc0e02fdf5b3220139c751b21c4",
+    "mod": "RSS",
+    "version": "2026.3.512"
+  },
+  {
+    "sha256": "b5d0b01f40f85527a54c95f3c995774e9be6afd7cf2708d7fd464429bc5617bd",
+    "mod": "FactoryGameSteam",
+    "version": "502094"
+  }
+]

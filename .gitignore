@@ -1,0 +1,16 @@
+build/
+__pycache__/
+*.pyc
+.vs/
+.vscode/
+Binaries/
+Intermediate/
+Saved/
+*.dll
+*.pdb
+*.exe
+*.sav
+*.pak
+*.utoc
+*.ucas
+.env*

@@ -1,0 +1,68 @@
+[
+  {
+    "namespace": "GeneratedLocTable",
+    "key": "AddNumbers__DisplayName",
+    "source": "Add",
+    "text": "Сложение"
+  },
+  {
+    "namespace": "GeneratedLocTable",
+    "key": "PowerNumber__DisplayName",
+    "source": "Power",
+    "text": "Возведение в степень"
+  },
+  {
+    "namespace": "GeneratedLocTable",
+    "key": "StepInterpolation__DisplayName",
+    "source": "Step",
+    "text": "Ступенчатая интерполяция"
+  },
+  {
+    "namespace": "GeneratedLocTable",
+    "key": "StepInterpolation__Inputs_3_DisplayName",
+    "source": "Steps",
+    "text": "Число ступеней"
+  },
+  {
+    "namespace": "GeneratedLocTable",
+    "key": "BooleanSelect__Modes_1_DisplayName",
+    "source": "Select",
+    "text": "Выбор"
+  },
+  {
+    "namespace": "StringTable_Categorys",
+    "key": "Food",
+    "source": "Food",
+    "text": "Еда"
+  },
+  {
+    "namespace": "KUI_GeneralWords",
+    "key": "Accept",
+    "source": "Accept",
+    "text": "Принять"
+  },
+  {
+    "namespace": "",
+    "key": "373D418D43D11BA693EAF2A8B680FD4A",
+    "source": "Normal",
+    "text": "Обычный"
+  },
+  {
+    "namespace": "ST_RSS",
+    "key": "BP_WC_SignWidget_Text.K2Node_Select_0.EnumEntryFriendlyNames[0]",
+    "source": "Normal",
+    "text": "Обычный"
+  },
+  {
+    "namespace": "SFPackRU",
+    "key": "ACF7CBE8A13EDECB16236FCAA4254BB5",
+    "source": "Steps",
+    "text": "Ступенчатый подъём"
+  },
+  {
+    "namespace": "BoomBoxPlus",
+    "key": "AcceptLink",
+    "source": "Accept",
+    "text": "Принять"
+  }
+]

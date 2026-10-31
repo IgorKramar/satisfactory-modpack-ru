@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">SFPackRU — русский язык большой фабрики</title><desc id="desc">Индустриальная схема конвейера: каталог, контекст и перевод.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2d4352" stroke-width="1"/></pattern><linearGradient id="bg"><stop stop-color="#142b3a"/><stop offset="1" stop-color="#213d49"/></linearGradient></defs>
+<rect width="1280" height="360" rx="18" fill="url(#bg)"/><rect width="1280" height="360" rx="18" fill="url(#grid)" opacity=".45"/>
+<path d="M810 150H900V228H1170" fill="none" stroke="#e5a42b" stroke-width="12" stroke-linejoin="round"/><path d="M810 150H900V228H1170" fill="none" stroke="#142b3a" stroke-width="3" stroke-dasharray="8 12"/>
+<g fill="#203d4d" stroke="#83afa9" stroke-width="3"><rect x="787" y="98" width="108" height="106" rx="8"/><rect x="963" y="176" width="108" height="106" rx="8"/><rect x="1122" y="176" width="108" height="106" rx="8"/></g>
+<g fill="#f1e9d6" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle" font-size="25" font-weight="700"><text x="841" y="161">EN</text><text x="1017" y="239">КЛЮЧ</text><text x="1176" y="239">РУ</text></g>
+<rect x="58" y="62" width="44" height="6" fill="#e5a42b"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="58" y="126" fill="#e5a42b" font-size="18" letter-spacing="4">SATISFACTORYPLUS · LOCALIZATION</text><text x="54" y="211" fill="#ffffff" font-size="78" font-weight="700">SFPackRU</text><text x="58" y="259" fill="#d1dfdf" font-size="27">Русский язык большой фабрики</text><text x="58" y="315" fill="#91abae" font-size="17">КАТАЛОГ · КОНТЕКСТ · ПРОВЕРКИ · ГАЙД</text></g>
+</svg>

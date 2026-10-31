@@ -1,0 +1,24 @@
+{
+  "concurrent_readers": 4,
+  "native_unreal_module_compiled": false,
+  "passed": true,
+  "dynamic_fragments": 457,
+  "time_utc": "2026-10-04T11:18:39.8594396Z",
+  "installed": false,
+  "source_hashes": [
+    {
+      "path": "Source\\SFPackRURuntime\\Private\\PlannerTranslation.h",
+      "sha256": "1165723b72e4dedc836e98e4f8b167288b3aedbd63286164db6f1d84a8b0ff0f"
+    },
+    {
+      "path": "Source\\SFPackRURuntime\\Private\\PlannerRows.generated.h",
+      "sha256": "78f50d9727860dae46e3e6b1b243d423c1f532f0ad23c478a6cdef15e154d1fc"
+    },
+    {
+      "path": "Tests\\PlannerTranslationTest.cpp",
+      "sha256": "16cac87591e0206a73f201aeb1b19190a5254923bf1c033643ba415de0391abe"
+    }
+  ],
+  "rows": 820,
+  "compiler": "MSVC 14.38.33130"
+}

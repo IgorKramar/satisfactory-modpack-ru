@@ -1,0 +1,270 @@
+[
+  {
+    "namespace": "",
+    "key": "7CE4F09A42AA56387E3290A9A2698D5D",
+    "resolution": "Current asset supersedes stale localization catalog",
+    "variants": [
+      {
+        "mod": "AB_FluidExtras",
+        "namespace": "",
+        "key": "7CE4F09A42AA56387E3290A9A2698D5D",
+        "hash": 1175508246,
+        "value": "Safely burn off flamable liquids and gasses into the air with this tall flaring tower.\r\n\r\nDanger limits can be overidden by experience pioneers.",
+        "kind": "catalog",
+        "source": "Safely burn off flamable liquids and gasses into the air with this tall flaring tower.\r\n\r\nDanger limits can be overidden by experience pioneers.",
+        "translation": "Высокая факельная башня для безопасного сжигания горючих жидкостей и газов с выбросом продуктов горения в атмосферу.\n\nОпытные первопроходцы могут отключить ограничения безопасности.",
+        "status": "literary-reviewed",
+        "deployed": false
+      },
+      {
+        "mod": "AB_FluidExtras",
+        "namespace": "",
+        "key": "7CE4F09A42AA56387E3290A9A2698D5D",
+        "hash": 1901970623,
+        "value": "Safely burn off flamable liquids and gasses into the air with this tall flaring tower.\r\n\r\nDanger limits can be overidden by experienced pioneers.",
+        "kind": "asset",
+        "source": "Safely burn off flamable liquids and gasses into the air with this tall flaring tower.\r\n\r\nDanger limits can be overidden by experienced pioneers.",
+        "translation": "Высокая факельная башня для безопасного сжигания горючих жидкостей и газов.\r\n\r\nОпытные первопроходцы могут отключить ограничения безопасности.",
+        "status": "literary-reviewed",
+        "deployed": true
+      }
+    ]
+  },
+  {
+    "namespace": "",
+    "key": "737FAB764108D5B1260FB8A0AA115283",
+    "resolution": "Current asset supersedes stale localization catalog",
+    "variants": [
+      {
+        "mod": "DigitalStorage",
+        "namespace": "",
+        "key": "737FAB764108D5B1260FB8A0AA115283",
+        "hash": 3005750574,
+        "value": "Inventory",
+        "kind": "catalog",
+        "source": "Inventory",
+        "translation": "Инвентарь",
+        "status": "literary-reviewed",
+        "deployed": false
+      },
+      {
+        "mod": "DigitalStorage",
+        "namespace": "",
+        "key": "737FAB764108D5B1260FB8A0AA115283",
+        "hash": 361426599,
+        "value": "Outgoing Inventory",
+        "kind": "asset",
+        "source": "Outgoing Inventory",
+        "translation": "Выходной инвентарь",
+        "status": "literary-reviewed",
+        "deployed": true
+      }
+    ]
+  },
+  {
+    "namespace": "",
+    "key": "899B14D54665512A6D8622B62E35652E",
+    "resolution": "Current asset supersedes stale localization catalog",
+    "variants": [
+      {
+        "mod": "DigitalStorage",
+        "namespace": "",
+        "key": "899B14D54665512A6D8622B62E35652E",
+        "hash": 3005750574,
+        "value": "Inventory",
+        "kind": "catalog",
+        "source": "Inventory",
+        "translation": "Инвентарь",
+        "status": "literary-reviewed",
+        "deployed": false
+      },
+      {
+        "mod": "DigitalStorage",
+        "namespace": "",
+        "key": "899B14D54665512A6D8622B62E35652E",
+        "hash": 361426599,
+        "value": "Outgoing Inventory",
+        "kind": "asset",
+        "source": "Outgoing Inventory",
+        "translation": "Выходной инвентарь",
+        "status": "literary-reviewed",
+        "deployed": true
+      }
+    ]
+  },
+  {
+    "namespace": "",
+    "key": "54FD25394F48281C2B98808F8459A42B",
+    "resolution": "Replaced by unique SFPackRU.Code identities in Blueprint overlay",
+    "variants": [
+      {
+        "mod": "FicsitRemoteMonitoring",
+        "namespace": "",
+        "key": "54FD25394F48281C2B98808F8459A42B",
+        "hash": 3860349093,
+        "value": "Filesystem root for web server, useful for custom UIs. Leave empty for default.",
+        "kind": "asset",
+        "source": "Filesystem root for web server, useful for custom UIs. Leave empty for default.",
+        "translation": "Корневая папка веб-сервера; позволяет использовать собственный интерфейс. Оставьте поле пустым для стандартного расположения.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "288F7BB652319888874BC9A847B5874E"
+      },
+      {
+        "mod": "FicsitRemoteMonitoring",
+        "namespace": "",
+        "key": "54FD25394F48281C2B98808F8459A42B",
+        "hash": 3799714727,
+        "value": "Filesystem root for web server, useful for custom UIs. Leave blank for default.",
+        "kind": "asset",
+        "source": "Filesystem root for web server, useful for custom UIs. Leave blank for default.",
+        "translation": "Корневая папка веб-сервера; позволяет использовать собственный интерфейс. Оставьте поле пустым для стандартного расположения.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "C5FA093CCBCF0BF2CA40AC81FF6A85DB"
+      }
+    ]
+  },
+  {
+    "namespace": "",
+    "key": "4824538F42D1440F5CFE90971E1ADB3E",
+    "resolution": "Replaced by unique SFPackRU.Code identities in Blueprint overlay",
+    "variants": [
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "4824538F42D1440F5CFE90971E1ADB3E",
+        "hash": 2596815541,
+        "value": "This mod does not allow resetting all of its options in bulk.",
+        "kind": "blueprint-code",
+        "source": "This mod does not allow resetting all of its options in bulk.",
+        "translation": "Этот мод не разрешает сбрасывать все настройки одновременно.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "D3E4427EDD5830C90A0E51A0062F6679"
+      },
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "4824538F42D1440F5CFE90971E1ADB3E",
+        "hash": 2418359248,
+        "value": "Resetting this section is not permitted by the mod.",
+        "kind": "blueprint-code",
+        "source": "Resetting this section is not permitted by the mod.",
+        "translation": "Мод не разрешает сброс этого раздела.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "DE1DA46F731201C1681C36AC7ADED27E"
+      }
+    ]
+  },
+  {
+    "namespace": "",
+    "key": "B643B4014E10A32864F43E8B381D872E",
+    "resolution": "Replaced by unique SFPackRU.Code identities in Blueprint overlay",
+    "variants": [
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "B643B4014E10A32864F43E8B381D872E",
+        "hash": 1528035953,
+        "value": "Click to reset all of this mod's config options to their defaults.\r\n(All visible config options are already set to their defaults, but at least one hidden config option can still be reset).",
+        "kind": "blueprint-code",
+        "source": "Click to reset all of this mod's config options to their defaults.\r\n(All visible config options are already set to their defaults, but at least one hidden config option can still be reset).",
+        "translation": "Нажмите, чтобы восстановить значения по умолчанию для всех настроек мода.\nВидимые настройки уже сброшены, но остаётся как минимум одна скрытая настройка, которую можно сбросить.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "61A44074215694EE5405784F53357416"
+      },
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "B643B4014E10A32864F43E8B381D872E",
+        "hash": 973054176,
+        "value": "Click to reset this section's options to their default values.\r\n(All visible config options are already set to their defaults, but at least one hidden config option can still be reset).",
+        "kind": "blueprint-code",
+        "source": "Click to reset this section's options to their default values.\r\n(All visible config options are already set to their defaults, but at least one hidden config option can still be reset).",
+        "translation": "Нажмите, чтобы восстановить значения по умолчанию для настроек раздела.\nВидимые настройки уже сброшены, но остаётся как минимум одна скрытая настройка, которую можно сбросить.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "76D8C08AAABEAB1B3AB420DF47322224"
+      }
+    ]
+  },
+  {
+    "namespace": "",
+    "key": "DA5859C445A17C4C18361FA8FE8BDF9B",
+    "resolution": "Replaced by unique SFPackRU.Code identities in Blueprint overlay",
+    "variants": [
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "DA5859C445A17C4C18361FA8FE8BDF9B",
+        "hash": 509764036,
+        "value": "This mod's options can only be reset in bulk from the Main Menu.",
+        "kind": "blueprint-code",
+        "source": "This mod's options can only be reset in bulk from the Main Menu.",
+        "translation": "Сбросить все настройки этого мода одновременно можно только из главного меню.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "49CDB1C98869D310FCDC8761760CAF6A"
+      },
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "DA5859C445A17C4C18361FA8FE8BDF9B",
+        "hash": 4142636223,
+        "value": "This section can only be reset from the Main Menu.",
+        "kind": "blueprint-code",
+        "source": "This section can only be reset from the Main Menu.",
+        "translation": "Этот раздел можно сбросить только из главного меню.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "F1C25483E672A8861D23F63283A01E4E"
+      }
+    ]
+  },
+  {
+    "namespace": "",
+    "key": "B2465E7E47DB700B301822ABA8FEF831",
+    "resolution": "Replaced by unique SFPackRU.Code identities in Blueprint overlay",
+    "variants": [
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "B2465E7E47DB700B301822ABA8FEF831",
+        "hash": 848500784,
+        "value": "All of this mod's options are already set to their default values.",
+        "kind": "blueprint-code",
+        "source": "All of this mod's options are already set to their default values.",
+        "translation": "Все настройки этого мода уже имеют значения по умолчанию.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "233E55E38EBCED2942B613DFA1FBC19F"
+      },
+      {
+        "mod": "SML",
+        "namespace": "",
+        "key": "B2465E7E47DB700B301822ABA8FEF831",
+        "hash": 2961472910,
+        "value": "At least one of the options in this section is not set to its default value but can only be reset from the Main Menu. All other options in this section are already set to their default values.",
+        "kind": "blueprint-code",
+        "source": "At least one of the options in this section is not set to its default value but can only be reset from the Main Menu. All other options in this section are already set to their default values.",
+        "translation": "Как минимум одна настройка раздела изменена, но её можно сбросить только из главного меню. Все остальные настройки раздела уже имеют значения по умолчанию.",
+        "status": "literary-reviewed",
+        "deployed": true,
+        "replacement_namespace": "SFPackRU.Code",
+        "replacement_key": "F7EFBE1AA7AB88E587D6961A4BCFCABE"
+      }
+    ]
+  }
+]

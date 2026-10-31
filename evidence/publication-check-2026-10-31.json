@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-31",
+  "scope": "Public repository source and catalog checks; no game launch",
+  "catalog_check_passed": true,
+  "active_keys": 12283,
+  "reviewed_unique_sources": 8286,
+  "planner_rows": 820,
+  "mods": 49,
+  "locres_roundtrip_cultures": ["en", "ru", "ru-RU"],
+  "russian_catalog_semantically_equal_to_local_2_2_0": true,
+  "standalone_cpp_test_passed": true,
+  "compiler": "MSVC 14.38.33130, C++20, /W4 /WX",
+  "standalone_cases": "820 literal rows, 457 dynamic fragments, four concurrent readers; errors=0",
+  "unreal_module_compiled": false,
+  "game_retested": false
+}

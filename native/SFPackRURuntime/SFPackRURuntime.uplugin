@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "SemVersion": "0.1.0",
+  "FriendlyName": "SFPackRU — native interface translation",
+  "Description": "Local Russian interface translation for the pinned Pioneer Production Planner 1.7.1 build.",
+  "Category": "Localization",
+  "CanContainContent": false,
+  "IsExperimentalVersion": true,
+  "GameVersion": "=502094",
+  "RequiredOnRemote": false,
+  "Modules": [{"Name":"SFPackRURuntime","Type":"Runtime","LoadingPhase":"PostDefault","PlatformAllowList":["Win64"]}],
+  "Plugins": [{"Name":"SML","Enabled":true,"SemVersion":"=3.12.0"}]
+}

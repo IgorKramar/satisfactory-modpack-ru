@@ -1,0 +1,772 @@
+[
+  {
+    "mod": "BoomBoxPlus",
+    "source": "YouTube live",
+    "translation": "Прямой эфир YouTube",
+    "line": 273,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Local file",
+    "translation": "Локальный файл",
+    "line": 276,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "unrecognised format (%d bytes, first bytes %02X %02X %02X %02X)",
+    "translation": "Неизвестный формат (%d байт; первые байты: %02X %02X %02X %02X)",
+    "line": 107,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "dr_mp3 could not initialise (corrupt or truncated MP3)",
+    "translation": "Не удалось запустить dr_mp3: MP3-файл повреждён или обрезан",
+    "line": 124,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "dr_wav could not initialise (unsupported or corrupt WAV encoding)",
+    "translation": "Не удалось запустить dr_wav: формат WAV не поддерживается или файл повреждён",
+    "line": 142,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "stb_vorbis could not open the stream (error %d)",
+    "translation": "stb_vorbis не удалось открыть поток (ошибка %d)",
+    "line": 159,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "decoder reported an invalid format (%d channels, %d Hz)",
+    "translation": "Декодер сообщил о недопустимом формате (%d каналов, %d Гц)",
+    "line": 177,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Put music files (.mp3, .ogg, .wav) in this folder, then open the Boom Box and choose Custom Music.\r\n",
+    "translation": "Поместите музыкальные файлы (.mp3, .ogg, .wav) в эту папку, затем откройте бумбокс и выберите «Своя музыка».\r\n",
+    "line": 19,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Sub-folders are included. Everyone in a session hears a track only if they have the same file.\r\n",
+    "translation": "Вложенные папки также просматриваются. Игроки в сессии слышат композицию, только если у них есть такой же файл.\r\n",
+    "line": 20,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "BoomBoxPlus copied its demo track into the music folder (%d file(s)). Delete this file to copy it again.",
+    "translation": "BoomBoxPlus скопировал демонстрационную композицию в папку с музыкой (файлов: %d). Удалите этот файл, чтобы скопировать её снова.",
+    "line": 402,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "network error",
+    "translation": "Ошибка сети",
+    "line": 32,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "could not start request",
+    "translation": "Не удалось отправить запрос",
+    "line": 39,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "YouTube live",
+    "translation": "Прямой эфир YouTube",
+    "line": 160,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "yt-dlp could not be started",
+    "translation": "Не удалось запустить yt-dlp",
+    "line": 188,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "yt-dlp exited with code %d",
+    "translation": "yt-dlp завершился с кодом %d",
+    "line": 199,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "network error",
+    "translation": "Ошибка сети",
+    "line": 295,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "could not start request",
+    "translation": "Не удалось отправить запрос",
+    "line": 307,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "YouTube/SoundCloud unavailable (tools missing)",
+    "translation": "YouTube и SoundCloud недоступны: отсутствуют необходимые инструменты",
+    "line": 448,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Not a YouTube or SoundCloud link",
+    "translation": "Это не ссылка на YouTube или SoundCloud",
+    "line": 471,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "YouTube/SoundCloud unavailable (tools missing)",
+    "translation": "YouTube и SoundCloud недоступны: отсутствуют необходимые инструменты",
+    "line": 471,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "That isn't a stream address. Paste a link starting with http:// or https://.",
+    "translation": "Это не адрес трансляции. Вставьте ссылку, начинающуюся с http:// или https://.",
+    "line": 496,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Radio needs the mod's bundled ffmpeg, which is missing. Reinstall the mod.",
+    "translation": "Для радио нужен ffmpeg из комплекта мода, но он отсутствует. Переустановите мод.",
+    "line": 501,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "That playlist doesn't list a stream.",
+    "translation": "В этом плейлисте нет адреса трансляции.",
+    "line": 522,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't read that playlist (%s).",
+    "translation": "Не удалось прочитать плейлист (%s).",
+    "line": 523,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't start ffmpeg.",
+    "translation": "Не удалось запустить ffmpeg.",
+    "line": 562,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't play that stream (%s).",
+    "translation": "Не удалось воспроизвести трансляцию (%s).",
+    "line": 566,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "no audio found",
+    "translation": "Звуковая дорожка не найдена",
+    "line": 566,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't read that Spotify link; type the song name instead",
+    "translation": "Не удалось прочитать ссылку Spotify; попробуйте ввести название композиции",
+    "line": 638,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't read that Spotify playlist",
+    "translation": "Не удалось прочитать плейлист Spotify",
+    "line": 792,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "YouTube/SoundCloud unavailable (tools missing)",
+    "translation": "YouTube и SoundCloud недоступны: отсутствуют необходимые инструменты",
+    "line": 826,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "That Spotify playlist is empty",
+    "translation": "Этот плейлист Spotify пуст",
+    "line": 854,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify only shares the first 100 songs without signing in. Add a Spotify Client ID and Secret in the mod settings, then press Connect Spotify.",
+    "translation": "Без входа в аккаунт Spotify предоставляет только первые 100 композиций. Укажите Spotify Client ID и Secret в настройках мода, затем нажмите «Подключить Spotify».",
+    "line": 860,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Only the first 100 songs. Press the \"Connect Spotify\" button below once to read whole playlists.",
+    "translation": "Доступны только первые 100 композиций. Нажмите кнопку «Подключить Spotify» ниже, чтобы читать плейлисты целиком.",
+    "line": 861,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify refused the full list (HTTP %d); showing the first 100 songs.",
+    "translation": "Spotify не предоставил полный список (HTTP %d); показаны первые 100 композиций.",
+    "line": 885,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify stopped after %d songs (HTTP %d).",
+    "translation": "Spotify прекратил выдачу после %d композиций (HTTP %d).",
+    "line": 888,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "%s; showing the first 100 songs.",
+    "translation": "%s; показаны первые 100 композиций.",
+    "line": 905,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify only lets mods read the whole song list of playlists you own, so this shows the first 100 songs. ",
+    "translation": "Spotify разрешает модам читать целиком только ваши собственные плейлисты, поэтому здесь показаны первые 100 композиций. ",
+    "line": 914,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "To play all of it, copy it into your own playlist in Spotify (select all songs, Add to playlist, New playlist) and paste that link.",
+    "translation": "Чтобы воспроизвести весь список, скопируйте его в свой плейлист Spotify: выделите все композиции, выберите «Добавить в плейлист», затем «Новый плейлист» и вставьте ссылку на него.",
+    "line": 915,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify rejected the Client ID/Secret in the mod settings.",
+    "translation": "Spotify отклонил Client ID или Secret, указанные в настройках мода.",
+    "line": 931,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "No matches found",
+    "translation": "Совпадений не найдено",
+    "line": 1067,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "The game is closing",
+    "translation": "Игра закрывается",
+    "line": 49,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Add your Spotify Client ID and Secret in the mod settings first",
+    "translation": "Сначала укажите Spotify Client ID и Secret в настройках мода",
+    "line": 80,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Started again",
+    "translation": "Вход запущен заново",
+    "line": 85,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't open port %u for the Spotify sign-in (another program may be using it)",
+    "translation": "Не удалось открыть порт %u для входа в Spotify; возможно, его использует другая программа",
+    "line": 102,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't start the Spotify sign-in listener",
+    "translation": "Не удалось запустить обработчик входа в Spotify",
+    "line": 110,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify sign-in timed out",
+    "translation": "Время ожидания входа в Spotify истекло",
+    "line": 123,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "This sign-in link has expired. Start again from the game.",
+    "translation": "Ссылка для входа устарела. Начните вход заново из игры.",
+    "line": 147,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "no code",
+    "translation": "Код не получен",
+    "line": 152,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify not connected",
+    "translation": "Spotify не подключён",
+    "line": 153,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify said: %s. You can close this tab.",
+    "translation": "Ответ Spotify: %s. Эту вкладку можно закрыть.",
+    "line": 153,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify sign-in was cancelled",
+    "translation": "Вход в Spotify отменён",
+    "line": 160,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify sign-in failed: %s",
+    "translation": "Не удалось войти в Spotify: %s",
+    "line": 160,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify connected",
+    "translation": "Spotify подключён",
+    "line": 166,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "You can close this tab and go back to Satisfactory.",
+    "translation": "Можно закрыть эту вкладку и вернуться в Satisfactory.",
+    "line": 166,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "The Spotify login expired; press Connect Spotify again",
+    "translation": "Срок действия входа в Spotify истёк; снова нажмите «Подключить Spotify»",
+    "line": 240,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Couldn't reach Spotify",
+    "translation": "Не удалось связаться со Spotify",
+    "line": 243,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify refused the sign-in (HTTP %d)",
+    "translation": "Spotify отклонил вход (HTTP %d)",
+    "line": 243,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify isn't connected",
+    "translation": "Spotify не подключён",
+    "line": 262,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "unknown player",
+    "translation": "Неизвестный игрок",
+    "line": 59,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Linking failed.",
+    "translation": "Не удалось соединить бумбоксы.",
+    "line": 255,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Only the host can link Boom Boxes.",
+    "translation": "Соединять бумбоксы может только хозяин сессии.",
+    "line": 260,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Declining failed.",
+    "translation": "Не удалось отклонить запрос.",
+    "line": 282,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Only the host can answer link requests.",
+    "translation": "Отвечать на запросы соединения может только хозяин сессии.",
+    "line": 287,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Unlinking failed.",
+    "translation": "Не удалось разъединить бумбоксы.",
+    "line": 321,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Only the host can unlink Boom Boxes.",
+    "translation": "Разъединять бумбоксы может только хозяин сессии.",
+    "line": 326,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Live radio",
+    "translation": "Прямой радиоэфир",
+    "line": 1082,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Linking failed.",
+    "translation": "Не удалось соединить бумбоксы.",
+    "line": 195,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Linking failed.",
+    "translation": "Не удалось соединить бумбоксы.",
+    "line": 203,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "No Boom Box uses code %04d.",
+    "translation": "Бумбокс с кодом %04d не найден.",
+    "line": 208,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "That's this Boom Box's own code (or it's already linked to it).",
+    "translation": "Это код текущего бумбокса или устройства, которое уже с ним соединено.",
+    "line": 214,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Request sent. Someone at Boom Box %04d must enter %04d within 3 minutes.",
+    "translation": "Запрос отправлен. На бумбоксе %04d нужно ввести код %04d в течение 3 минут.",
+    "line": 234,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Linked with Boom Box %04d. %d Boom Boxes now share one merged queue.",
+    "translation": "Соединение с бумбоксом %04d установлено. Теперь общая очередь используется бумбоксами в количестве %d.",
+    "line": 247,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "That link request is no longer waiting.",
+    "translation": "Этот запрос на соединение уже недействителен.",
+    "line": 261,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Declined Boom Box %04d's link request.",
+    "translation": "Запрос на соединение от бумбокса %04d отклонён.",
+    "line": 267,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Unlinking failed.",
+    "translation": "Не удалось разъединить бумбоксы.",
+    "line": 381,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "This Boom Box isn't linked to another one.",
+    "translation": "Этот бумбокс не соединён с другими.",
+    "line": 388,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Unlinking failed.",
+    "translation": "Не удалось разъединить бумбоксы.",
+    "line": 394,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Unlinked. This Boom Box has its own queue again (code %04d).",
+    "translation": "Соединение разорвано. У этого бумбокса снова своя очередь (код %04d).",
+    "line": 400,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "No music files yet. Put .mp3, .ogg or .wav files in:\n%s\nor press Enter to search YouTube and SoundCloud.",
+    "translation": "Музыкальных файлов пока нет. Поместите файлы .mp3, .ogg или .wav в папку:\n%s\nИли нажмите Enter для поиска на YouTube и SoundCloud.",
+    "line": 775,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "No matches. Press Enter to search YouTube and SoundCloud.",
+    "translation": "Совпадений нет. Нажмите Enter для поиска на YouTube и SoundCloud.",
+    "line": 779,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "%sShowing the first %d of %d.",
+    "translation": "%sПоказаны первые %d из %d.",
+    "line": 792,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Paused. Resuming reconnects to the live broadcast.",
+    "translation": "Приостановлено. При возобновлении бумбокс подключится к текущему прямому эфиру.",
+    "line": 925,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Connecting to the station...",
+    "translation": "Подключение к радиостанции…",
+    "line": 926,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "This Boom Box",
+    "translation": "Этот бумбокс",
+    "line": 1227,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Boom Box %04d",
+    "translation": "Бумбокс %04d",
+    "line": 1228,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Boom Box",
+    "translation": "Бумбокс",
+    "line": 1229,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "nothing queued",
+    "translation": "Очередь пуста",
+    "line": 1231,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "  (muted by what you hear)",
+    "translation": "  (звук отключён выбранным режимом слышимости)",
+    "line": 1235,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Reading Spotify link...",
+    "translation": "Чтение ссылки Spotify…",
+    "line": 1336,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Reading the Spotify playlist...",
+    "translation": "Чтение плейлиста Spotify…",
+    "line": 1357,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Tuning in...",
+    "translation": "Настройка на радиостанцию…",
+    "line": 1377,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Tuned in to %s:",
+    "translation": "Включена радиостанция %s:",
+    "line": 1396,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Reading link...",
+    "translation": "Чтение ссылки…",
+    "line": 1406,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Searching YouTube and SoundCloud...",
+    "translation": "Поиск на YouTube и SoundCloud…",
+    "line": 1418,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "YouTube/SoundCloud unavailable: the mod's download tools are missing.",
+    "translation": "YouTube и SoundCloud недоступны: отсутствуют инструменты загрузки из комплекта мода.",
+    "line": 1418,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Online search failed: %s",
+    "translation": "Ошибка поиска в интернете: %s",
+    "line": 1444,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Nothing found online.",
+    "translation": "В интернете ничего не найдено.",
+    "line": 1445,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "From YouTube / SoundCloud:",
+    "translation": "С YouTube и SoundCloud:",
+    "line": 1446,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Added %d tracks to the queue.",
+    "translation": "В очередь добавлено композиций: %d.",
+    "line": 1465,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify connected.",
+    "translation": "Spotify подключён.",
+    "line": 1511,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Sign in to Spotify in the browser window that just opened, then come back here.",
+    "translation": "Войдите в Spotify в открывшемся окне браузера, затем вернитесь сюда.",
+    "line": 1524,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Connect Spotify",
+    "translation": "Подключить Spotify",
+    "line": 1540,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Reading the Spotify playlist...",
+    "translation": "Чтение плейлиста Spotify…",
+    "line": 1544,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Matching on YouTube: %d of %d done%s",
+    "translation": "Поиск соответствий на YouTube: обработано %d из %d%s",
+    "line": 1545,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": ". Adding each to the queue as it's found.",
+    "translation": ". Каждая найденная композиция добавляется в очередь.",
+    "line": 1546,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Spotify playlist: %s",
+    "translation": "Плейлист Spotify: %s",
+    "line": 1551,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "Matched %d of %d Spotify tracks on YouTube%s",
+    "translation": "На YouTube найдено %d из %d композиций Spotify%s",
+    "line": 1552,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": ", all added to the queue.",
+    "translation": ", все добавлены в очередь.",
+    "line": 1553,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "   (not in your library)",
+    "translation": "   (нет в вашей библиотеке)",
+    "line": 145,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  },
+  {
+    "mod": "BoomBoxPlus",
+    "source": "   added by %s",
+    "translation": "   добавил(а): %s",
+    "line": 149,
+    "status": "literary-reviewed; source patch only; NOT INSTALLED"
+  }
+]

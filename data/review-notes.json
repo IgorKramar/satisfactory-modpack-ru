@@ -1,0 +1,29 @@
+{
+  "2137": {
+    "source": "Cast CoCured Plasticpper Ingot",
+    "decision": "Correct author-corrupted display name to Отверждённый пластик.",
+    "evidence": "ST_SatisfactoryPlus key Recipe_Reformer_ResiualPlastic.Recipe_Reformer_ResiualPlastic_C.mDisplayName. Corresponding recipe uses PolymerResin and LiquidFuel, produces Plastic and Steam_Hot, and is categorized as SolidOilProducts. 'Cured Plastic' was inserted into the unrelated 'Cast Copper Ingot' label in the author's table. Inspected work/gameplay-properties.json entry /SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_ResiualPlastic."
+  },
+  "1309": {
+    "source_issue": "Author says additional modules reduce incubation time but also says only one can be built per hatchery. Both statements retained; do not silently invent a limit or omit the warning."
+  },
+  "2517": {
+    "source_issue": "Installed SF+ explicitly says multiplayer and dedicated servers are unsupported. Guide must reflect this."
+  },
+  "7757": {
+    "source_issue": "Different original image-download descriptions disagree about file:/// support. Retained the meaning of each original; do not promise local file support in guide."
+  },
+  "LinearMotion": {
+    "source_issue": "Elevator descriptions and unlock texts disagree about maximum height. Values retained from each exact source; choose actual in-game limit."
+  },
+  "native": {
+    "source": "BoomBoxPlus 1.3.7, bdde883",
+    "verified": "102 LOCTEXT/NSLOCTEXT keys extracted from matching source version; original literals found in installed DLLs. 101 changed texts; mod title intentionally unchanged."
+  },
+  "terminology": {
+    "MAM": "ММА — verified against installed base-game translation memory",
+    "Pioneer": "Первопроходец",
+    "Power Slug": "Энергослизень",
+    "Power Shard": "Энергомодуль"
+  }
+}

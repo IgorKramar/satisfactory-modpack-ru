@@ -1,0 +1,338 @@
+[
+  {
+    "mod": "SML",
+    "source": "Aborting MAM tree scrolling fix since unexpected element encountered. Stage {stage}. Debug info: {element}",
+    "package": "/SML/Hook_GlobalHooks_SML",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Исправление прокрутки дерева ММА прервано: обнаружен неожиданный элемент. Этап: {stage}. Отладочные данные: {element}",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Wooden Sign",
+    "package": "/RSS/Equipment/Widget_SignGun",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Деревянная табличка",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Custom Sign",
+    "package": "/RSS/Equipment/Widget_SignGun",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Настраиваемая вывеска",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Invalid Target",
+    "package": "/RSS/Equipment/Widget_SignGun",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Недопустимая цель",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Wooden Sign",
+    "package": "/RSS/Equipment/Widget_SignGun",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Деревянная табличка",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Custom Sign",
+    "package": "/RSS/Equipment/Widget_SignGun",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Настраиваемая вывеска",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Invalid Target",
+    "package": "/RSS/Equipment/Widget_SignGun",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Недопустимая цель",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "FicsitWiremod",
+    "source": "Description unavailable",
+    "package": "/FicsitWiremod/UI/Shared/Connections/ConnectionsWidget",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Описание недоступно",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "FicsitWiremod",
+    "source": "No description",
+    "package": "/FicsitWiremod/UI/Shared/Connections/ConnectionsWidget",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Нет описания",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "{Power} MW",
+    "package": "/DigitalStorage/Interface/Interact/BPW_DS_UplinkSatellite",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{Power} МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "Water Turbine Node",
+    "package": "/DigitalStorage/Interface/Interact/Widget_DS_Server",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Узел водяной турбины",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "UNAVAILABLE",
+    "package": "/DigitalStorage/Interface/Interact/Widget_DS_Server",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "НЕДОСТУПНО",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "{total} MW",
+    "package": "/DigitalStorage/Interface/Interact/Widget_NetworkPowerAdapter",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{total} МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "Water Dam Node",
+    "package": "/DigitalStorage/Interface/Widgets/DS_UI_Utils",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Точка установки плотины",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "Water Turbine Node",
+    "package": "/DigitalStorage/Interface/Widgets/DS_UI_Utils",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Узел водяной турбины",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "UNAVAILABLE",
+    "package": "/DigitalStorage/Interface/Widgets/DS_UI_Utils",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "НЕДОСТУПНО",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "KBFL",
+    "source": "Location: X: {X} | Y: {Y} | Z:{Z}",
+    "package": "/KBFL/Utils/Widget/KBFLUTIL_Widget_Controll",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Положение: X: {X} | Y: {Y} | Z: {Z}",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "KBFL",
+    "source": "Rotation: R: {X} | P: {Y} | Y:{Z}",
+    "package": "/KBFL/Utils/Widget/KBFLUTIL_Widget_Controll",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Поворот: крен: {X} | тангаж: {Y} | рыскание: {Z}",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "KBFL",
+    "source": "Scale: X: {X} | Y: {Y} | Z:{Z}",
+    "package": "/KBFL/Utils/Widget/KBFLUTIL_Widget_Controll",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Масштаб: X: {X} | Y: {Y} | Z: {Z}",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "{Name} #Copy",
+    "package": "/RSS/Interface/WidgetComp/Rss_WC_ElementList_Element",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{Name} #Копия",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Index: {I}",
+    "package": "/RSS/Interface/WidgetComp/Rss_WC_ElementList_Element",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Индекс: {I}",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Secret",
+    "package": "/RSS/Interface/WidgetComp/Rss_WC_SizeCombobox_2",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Секрет",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Custom",
+    "package": "/RSS/Interface/WidgetComp/Rss_WC_SizeCombobox_2",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Пользовательский",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RSS",
+    "source": "Invalid",
+    "package": "/RSS/Interface/WidgetComp/Rss_WC_SizeCombobox_2",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Недопустимо",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "FicsitWiremod",
+    "source": "{X} FPS",
+    "package": "/FicsitWiremod/Buildings/Displays/PixelArtManager/Editor/Widget_PixelArt",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{X} кадр/с",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "{power} MW",
+    "package": "/DigitalStorage/Interface/Widgets/DriveTerminal/BPW_DS_DriveTerminal_DriveInfo",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{power} МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "0 MW",
+    "package": "/DigitalStorage/Interface/Widgets/DriveTerminal/BPW_DS_DriveTerminal_DriveInfo",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "0 МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "New Template",
+    "package": "/DigitalStorage/Interface/Widgets/Server/BPW_DS_Server_DriveTemplateWindow",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Новый шаблон",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "New Template",
+    "package": "/DigitalStorage/Interface/Widgets/Server/BPW_DS_Server_DriveTemplateWindow",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Новый шаблон",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "New Template",
+    "package": "/DigitalStorage/Interface/Widgets/Server/BPW_DS_Server_DriveTemplateWindow",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Новый шаблон",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "New Template",
+    "package": "/DigitalStorage/Interface/Widgets/Server/BPW_DS_Server_DriveTemplateWindow",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Новый шаблон",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "New Template",
+    "package": "/DigitalStorage/Interface/Widgets/Server/BPW_DS_Server_DriveTemplateWindow",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Новый шаблон",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "DigitalStorage",
+    "source": "Slot {index}",
+    "package": "/DigitalStorage/Interface/Widgets/UniversalAdapter/BPW_DS_UniversalAdapter_InventorySlot",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Ячейка {index}",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RefinedPower",
+    "source": "BP_RP_WaterDamNode{index}",
+    "package": "/RefinedPower/Buildables/WaterDam/Node/BP_RP_WaterDamNode",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "BP_RP_WaterDamNode{index}",
+    "status": "technical object identifier; deliberately unchanged"
+  },
+  {
+    "mod": "RefinedPower",
+    "source": "{power} MW",
+    "package": "/RefinedPower/Interface/UI/Intracts/Widget_SolarPanel",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{power} МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "SML",
+    "source": "ModRef: {ModReference}",
+    "package": "/SML/Interface/UI/Menu/Mods/Widget_ModSelect_Button",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Идентификатор мода: {ModReference}",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "SML",
+    "source": "Essentials",
+    "package": "/SML/Interface/UI/Menu/PlayMenu/Widget_PlayMenuTab_Essentials",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "Основное",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RefinedPower",
+    "source": "{Power} MW",
+    "package": "/RefinedPower/Interface/UI/Intracts/ModularReactor/Widget_RP_MR_SupportRing",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{Power} МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RefinedPower",
+    "source": "MW",
+    "package": "/RefinedPower/Interface/UI/Intracts/PowerMonitor/BPW_RP_PowerMonitor_Graph",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RefinedPower",
+    "source": "{power}MW",
+    "package": "/RefinedPower/Interface/UI/Intracts/Turbine/Widget_RP_WaterTurbine",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{power} МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "RefinedPower",
+    "source": "{power} MW",
+    "package": "/RefinedPower/Interface/UI/Intracts/Turbine/Widget_RP_WindTurbine",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "{power} МВт",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  },
+  {
+    "mod": "SML",
+    "source": "ERROR - reset button is disabled, but individual reasons report it should be enabled?",
+    "package": "/SML/Interface/UI/Menu/Mods/ConfigProperties/Widgets/Container/Widget_CP_Container",
+    "reason": "Invariant literal in Blueprint bytecode",
+    "translation": "ОШИБКА: кнопка сброса отключена, хотя отдельные проверки разрешают сброс.",
+    "status": "literary-reviewed; installed in Blueprint overlay"
+  }
+]

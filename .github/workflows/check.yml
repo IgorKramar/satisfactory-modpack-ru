@@ -1,0 +1,21 @@
+name: Catalog and standalone core
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python tools/catalog.py check
+      - run: python tools/catalog.py build-locres
+      - name: Compile standalone translation core
+        run: >-
+          g++ -std=c++20 -Wall -Wextra -Werror -pthread
+          -I native/SFPackRURuntime/Source/SFPackRURuntime/Private
+          native/SFPackRURuntime/Tests/PlannerTranslationTest.cpp
+          -o build/planner-test
+      - run: ./build/planner-test
